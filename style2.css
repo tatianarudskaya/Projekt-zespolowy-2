@@ -208,7 +208,7 @@ ol > li > ul > li:hover > a {
 }
 
 	/*---- Kwadrat z boku ;) ----*/
-aside{
+	#aside{
 	background-color: none;
 	width: 270px;
 	float: right;
